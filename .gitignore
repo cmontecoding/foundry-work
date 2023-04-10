@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+#npm and hardhat stuff
+node_modules
+package-lock.json
+package.json
+hardhat.config.js
+
+src/Counter.sol
+test/Counter.t.sol
