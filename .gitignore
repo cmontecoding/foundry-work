@@ -19,5 +19,7 @@ package-lock.json
 package.json
 hardhat.config.js
 
+#sample contract
 src/Counter.sol
 test/Counter.t.sol
+script/Counter.s.sol
